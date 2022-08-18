@@ -1,1 +1,2 @@
-updata count=100
+updata count=10
+
